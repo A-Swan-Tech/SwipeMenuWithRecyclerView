@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Common -->
+
+    <color name="colorPrimary">#4B62B9</color>
+    <!-- Android -->
+
+
+    <!-- Common -->
+
+
+    <color name="transparent">#00000000</color>
+
+    <!-- White Transparent -->
+
+
+    <color name="BlueDress">#157DEC</color>
+
+    <!-- common -->
+
+    <!--send trouble shooting-->
+
+    <!--copy code-->
+
+
+    <!--ec detail product-->
+
+
+    <!-- Android style -->
+
+    <!-- Android Holo style -->
+
+    <!-- Windows 8 style -->
+
+
+    <!-- Generic -->
+    <!-- Generic Dark -->
+    <!-- Generic Light -->
+    <!-- Generic Medium -->
+
+    <!-- a -->
+    <!-- b -->
+    <!-- c -->
+    <!-- d -->
+    <!-- e -->
+    <!-- f -->
+    <!-- g -->
+    <!-- h -->
+    <!-- i -->
+    <!-- j -->
+    <!-- k -->
+    <!-- l -->
+    <!-- m -->
+    <!-- n -->
+    <!-- o -->
+
+    <!-- p -->
+    <!-- q -->
+    <!-- r -->
+    <!-- s -->
+
+    <!-- t -->
+    <!-- u -->
+    <!-- v -->
+    <!-- w -->
+    <!-- x -->
+    <!-- y -->
+
+    <!-- z -->
+
+</resources>
